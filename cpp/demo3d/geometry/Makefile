@@ -1,4 +1,4 @@
-ROOT=${HOME}/projects/training/goDemo
+ROOT=${HOME}/projects/training/cpp/demo3d
 CPPFLAGS=-O3 -I${ROOT}/screen -I${ROOT}/geometry -I${ROOT}
 .cpp.o:
 	c++ ${CPPFLAGS} -c $<

@@ -1,0 +1,4 @@
+*.o
+testAnsi
+testMatrix
+testRenderer

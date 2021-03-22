@@ -9,6 +9,7 @@ namespace Lourah {
 				std::string spot;
 				char *buffer;
 				int pos;
+				int spotCount;
 			public:
 				Ansi();
 				~Ansi();
